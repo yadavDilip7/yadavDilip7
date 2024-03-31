@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavdilip7" alt="yadavdilip7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/digeek_7" target="blank"><img src="https://img.shields.io/twitter/follow/digeek_7?logo=twitter&style=for-the-badge" alt="digeek_7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/laughinglogics" target="blank"><img src="https://img.shields.io/twitter/follow/DILIP YADAV ?logo=twitter&style=for-the-badge" alt="digeek_7" /></a> </p>
 
 - 🔭 I’m currently working on **Chat Application using Reactjs**
 
